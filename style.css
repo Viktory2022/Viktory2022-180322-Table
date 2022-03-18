@@ -1,0 +1,45 @@
+/* 
+body {
+    background-color: red;
+} 
+table {
+    border: 1px solid grey;
+    border-collapse: separate;
+    border-spacing: 10px;
+    background-color: antiquewhite;
+    background-image: url(https://phonoteka.org/uploads/posts/2021-06/1623413701_5-phonoteka_org-p-voda-na-stekle-tekstura-krasivo-5.jpg);
+    empty-cells: hide;
+    
+    }
+tr {
+    background-color: goldenrod; 
+    background-image: url(https://kartinkin.net/uploads/posts/2021-07/1625866455_50-kartinkin-com-p-steklo-tekstura-krasivo-50.jpg) ;
+}
+
+th { 
+    border: 1px solid green;
+    background-image: url(https://kartinkin.net/uploads/posts/2021-07/1625866455_50-kartinkin-com-p-steklo-tekstura-krasivo-50.jpg);
+}
+td { 
+    border: 1px solid orangered;
+    background-image: url(https://kartinkin.net/uploads/posts/2021-07/1625866455_50-kartinkin-com-p-steklo-tekstura-krasivo-50.jpg) ;
+}
+
+#uniq {
+    width: 30vw;
+    height: 30vh;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: aqua;
+    background-image: url(https://phonoteka.org/uploads/posts/2021-06/1623413701_5-phonoteka_org-p-voda-na-stekle-tekstura-krasivo-5.jpg);
+}  */
+
+table {
+    border-collapse: collapse;
+    }
+
+td {
+    border: 1px solid grey;
+    width: 30px;
+    height: 30px;
+}
